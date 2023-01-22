@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I´m María Somoza</h1>
+<h1 align="center">Hi👋, I´m María Somoza</h1>
 
 ![María SJ](https://user-images.githubusercontent.com/112867716/213913096-ccb19563-2a72-4ded-b41c-ed831e34e204.png)
 
