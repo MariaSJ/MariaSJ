@@ -1,10 +1,10 @@
-### Hi, I´m María 👋👩🏻‍💻
+<h1 align="center">Hi 👋, I´m María Somoza</h1>
 ![María SJ](https://user-images.githubusercontent.com/112867716/213913096-ccb19563-2a72-4ded-b41c-ed831e34e204.png)
 
 Social worker, and now, Front-End Programmer. 
 Without fear of the unknown I entered the technological world, since then I dedicate my time to face the multiple challenges that this discipline poses to me, making it my new passion.
 
-My portfolio ✨ https://mariasj.github.io/portfolio/
+<strong> My portfolio </strong> ✨ https://mariasj.github.io/portfolio/
 
 ## 📫 How to reach me:
 <p align="left">
