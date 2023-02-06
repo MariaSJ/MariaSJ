@@ -3,7 +3,7 @@
 ![María SJ](https://user-images.githubusercontent.com/112867716/213913096-ccb19563-2a72-4ded-b41c-ed831e34e204.png)
 
 ## About me:
-Social worker, and now, Front-End Programmer. 
+Social worker, and now, Frontend Programmer. 
 Without fear of the unknown I entered the technological world, since then I dedicate my time to face the multiple challenges that this discipline poses to me, making it my new passion.
 
 <strong> My portfolio </strong> ✨ https://mariasj.github.io/portfolio/
